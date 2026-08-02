@@ -1,16 +1,23 @@
-## suntzu@kali:~$ git commit -m "anything now"
+``````bash
+suntzv@ncrypt:~$ python ideas.py
 
-<!--
-**SunTzv/SunTzv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Traceback (most recent call last):
+  File "ideas.py", line 284
+    "I'll finish this tomorrow"
+                               ^
+SyntaxError: expected today
 
-Here are some ideas to get you started:
+suntzv@ncrypt:~$ ls
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ideas.txt
+ideas-final.txt
+ideas-final-v2.txt
+ideas-final-v2-fixed.txt
+ideas-actually-final.txt
+ideas-real-final.txt
+ideas-real-final-2.txt
+ideas-this-one-is-final.txt
+ideas-this-one-is-final-v2.txt
+
+suntzv@ncrypt:~$
+```

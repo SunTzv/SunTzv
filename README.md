@@ -1,4 +1,4 @@
-``````bash
+```bash
 suntzv@ncrypt:~$ python ideas.py
 
 Traceback (most recent call last):

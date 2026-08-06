@@ -1,5 +1,5 @@
 ```bash
-suntzv@ncrypt:~$ python ideas.py
+suntzv@ncrypt:~$ python3 ideas.py
 
 Traceback (most recent call last):
   File "ideas.py", line 284

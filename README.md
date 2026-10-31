@@ -1,7 +1,7 @@
- <div align="center">
+<div align="center">
 
 ```math
-\textit{\Large Zwischenzugs before Zugzwangs.}
+\textit{\Huge \color{#c9a96e} Zwischenzugs before Zugzwangs.}
 ```
 
 <sub><i>— SunTzv</i></sub>
